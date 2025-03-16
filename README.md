@@ -57,7 +57,7 @@ The data model follows a **star schema** design, ensuring efficient data relatio
 ---
 
 ## ✍️ **Credits**  
-- Special thanks to ** Ismaila Omeiza M.** creater of Data with Decision for the dataset and guidance throughout the project.  
+- Special thanks to ** Ismaila Omeiza M.**, creator of "Data with Decision" for the dataset and guidance throughout the project.  
 
 ---
 
